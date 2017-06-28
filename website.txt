@@ -1,0 +1,7 @@
+http://www.w3school.com.cn/ado/ado_ref_recordset.asp  关于ado的描述，包括connection，recordset的使用介绍
+
+http://blog.csdn.net/niushitang/article/details/8270325  博客，详细介绍了recordset的用法
+
+http://blog.csdn.net/niushitang/article/details/8270325   博客，详细介绍了connection的用法
+
+
